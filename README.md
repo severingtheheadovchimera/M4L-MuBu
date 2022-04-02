@@ -1,5 +1,5 @@
 # M4L-MuBu
-M4L Port of IRCAM's MuBu Granular Engine
+Three Iterations of an M4L Port of IRCAM's MuBu Granular Engine
 
 Install the MuBu Package in M4L before using
 
